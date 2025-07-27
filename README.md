@@ -1,4 +1,5 @@
 Currency Converter Web App
+
 A simple Currency Converter web app that fetches live exchange rates using the ExchangeRate API.
 It also displays country flags dynamically based on selected currencies.
 
